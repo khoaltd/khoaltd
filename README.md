@@ -1,6 +1,6 @@
 # WELCOME TO MY PAGE 👋👋
 
-My name is Le Khoa. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics.  
+My name is Le Khoa. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Quantum Optimize.  
 I am interested in the following topics: **Deep Learning in NLP and Computer Vision. Reinforcement Learning.**
 
 ---
